@@ -1,0 +1,17 @@
+链表(Linked List)也是线性结构，它与数组看起来非常像，但是它们的内存分配方式、内部结构和插入删除操作方式都不一样。
+
+链表是一系列节点组成的链，每一个节点保存了数据以及指向下一个节点的指针。链表头指针指向第一个节点，如果链表为空，则头指针为空或者为 null。
+
+链表可以用来实现文件系统、哈希表和邻接表。
+
+下图展示了一个链表，它有 3 个节点：
+链表分为 2 种：
+
+单向链表
+双向链表
+
+Time Complexity:
+Indexing: Linked Lists: O(n)
+Search: Linked Lists: O(n)
+Optimized Search: Linked Lists: O(n)
+Insertion: Linked Lists: O(1)
